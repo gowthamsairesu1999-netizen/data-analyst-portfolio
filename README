@@ -2,34 +2,45 @@
 
 ---
 
-# 🧠 About This Portfolio
+## 🧠 **About This Portfolio**
 
 This repository showcases end-to-end **Data Analytics projects** built using real-world business scenarios.
 
 It demonstrates the complete analytics lifecycle:
 
-- Business problem understanding
-- Data exploration and cleaning
-- SQL analytics
-- Python data analysis
-- Statistical analysis
-- Business intelligence dashboards
-- Machine learning analytics
-- Forecasting
-- Cloud analytics solutions
+- **Business Problem Understanding**
+- **Data Exploration & Cleaning**
+- **SQL Analytics**
+- **Python Data Analysis**
+- **Statistical Analysis**
+- **Business Intelligence Dashboards**
+- **Machine Learning Analytics**
+- **Forecasting**
+- **Cloud Analytics Solutions**
 
 The goal of this portfolio is to demonstrate the ability to transform raw data into meaningful business insights and support data-driven decision making.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 **Featured Projects**
 
 ---
 
-# ⭐ Project 1: Advanced SQL Business Analytics
+## ⭐ **Project 1: Advanced SQL Business Analytics**
 
 🔗 **Repository:**  
 https://github.com/gowthamsairesu1999-netizen/advanced-sql-analytics
 
 
-## 🏗 Project Architecture / Analytics Workflow
+## 🏗 **Project Architecture / Analytics Workflow**
+
+```text
+Business Data
+      ↓
+SQL Data Exploration
+      ↓
+Advanced SQL Analysis
+      ↓
+Business Metrics Calculation
+      ↓
+Insights & Recommendations
