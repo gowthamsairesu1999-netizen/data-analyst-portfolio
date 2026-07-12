@@ -26,8 +26,7 @@ The goal of this portfolio is to demonstrate the ability to transform raw data i
 
 ---
 
-## ⭐ **Project 1: Advanced SQL Business Analytics**
-
+## ⭐ **Project 1: 
 🔗 **Repository:**  
 
 
