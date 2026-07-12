@@ -29,12 +29,10 @@ The goal of this portfolio is to demonstrate the ability to transform raw data i
 ## ⭐ **Project 1: Advanced SQL Business Analytics**
 
 🔗 **Repository:**  
-https://github.com/gowthamsairesu1999-netizen/advanced-sql-analytics
+
 
 
 ## 🏗 **Project Architecture / Analytics Workflow**
-
-```text
 Business Data
       ↓
 SQL Data Exploration
