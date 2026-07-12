@@ -1,44 +1,31 @@
 # 📊 Senior Data Analyst Portfolio
 
-Welcome to my Data Analyst Portfolio.
+## 🧠 About This Portfolio
 
-This repository contains end-to-end analytics projects covering:
+This repository showcases end-to-end **Data Analytics projects** built using real-world business scenarios.
 
-- SQL
-- Python
-- Power BI
-- Statistics
-- Machine Learning
-- Cloud Analytics
+It demonstrates the complete analytics lifecycle:
 
+- Business problem understanding
+- Data exploration and cleaning
+- SQL analytics
+- Python data analysis
+- Statistical analysis
+- Business intelligence dashboards
+- Machine learning analytics
+- Forecasting
+- Cloud analytics solutions
 
-## 🚀 Projects
+The goal of this portfolio is to demonstrate the ability to transform raw data into meaningful business insights and support data-driven decision making.
 
+---
 
-| Project | Skills |
-|---|---|
-| Advanced SQL Analytics | SQL, Business Analysis |
-| Healthcare Claims Analytics | SQL, Python, Healthcare |
-| Retail Dashboard | Power BI, DAX |
-| Customer Segmentation | Python, ML |
-| Churn Prediction | Machine Learning |
-| A/B Testing | Statistics |
-| Sales Forecasting | Time Series |
-| BigQuery Analytics | Cloud Analytics |
+# 🟢 Featured Projects
 
+## ⭐ Project 1: Advanced SQL Business Analytics
 
-## 🛠 Skills
-
-SQL  
-Python  
-Power BI  
-Tableau  
-Excel  
-BigQuery  
-Statistics  
-Machine Learning
+🔗 Repository:
+https://github.com/gowthamsairesu1999-netizen/advanced-sql-analytics
 
 
-## 🎯 Goal
-
-Build production-quality analytics solutions that transform data into business insights.
+## 🏗 Analytics Workflow
